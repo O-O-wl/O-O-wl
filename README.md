@@ -7,4 +7,4 @@
   - 🧑‍💻 github: https://github.com/O-O-wl
   - 📇 linkedin: https://www.linkedin.com/in/동영-이-747b51199/
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=O-O-wl)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=O-O-wl&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
